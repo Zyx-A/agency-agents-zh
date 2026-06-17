@@ -37,7 +37,7 @@
 | `marketing/marketing-bilibili-content-strategist.md` | `marketing/marketing-bilibili-strategist.md` |
 | `specialized/customer-service.md` | `support/support-support-responder.md`（拆分） |
 | `specialized/sales-outreach.md` | `sales/sales-outbound-strategist.md` |
-| `specialized/supply-chain-strategist.md` | `support/support-supply-chain-strategist.md` |
+| `specialized/supply-chain-strategist.md` | `supply-chain/supply-chain-strategist.md` |
 
 ## 中国市场原创智能体
 

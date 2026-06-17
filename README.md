@@ -397,14 +397,14 @@ cp -r marketing/*.md ~/.claude/agents/
 | [LSP 索引工程师](specialized/lsp-index-engineer.md) | 代码智能、语义索引 | 代码导航、IDE 集成 |
 | [报告分发师](specialized/report-distribution-agent.md) | 报告分发、多渠道推送 | 自动化报告分发 |
 | [销售数据提取师](specialized/sales-data-extraction-agent.md) | 销售数据采集、结构化 | CRM 数据处理 |
-| [合规审计师](specialized/compliance-auditor.md) | SOC 2/ISO 27001/HIPAA 合规 | 合规审计、安全认证 |
+| [合规审计师](security/security-compliance-auditor.md) | SOC 2/ISO 27001/HIPAA 合规 | 合规审计、安全认证 |
 | [应付账款智能体](specialized/accounts-payable-agent.md) | 发票处理、付款自动化 | 财务流程自动化 |
 | [身份图谱操作员](specialized/identity-graph-operator.md) | 身份解析、多源匹配 | 用户身份治理 |
 | [文化智能策略师](specialized/specialized-cultural-intelligence-strategist.md) | 文化洞察、跨文化设计 | 全球化产品、本地化策略 |
 | [开发者布道师](specialized/specialized-developer-advocate.md) | 开发者关系、DX 工程 | 开发者社区、技术推广 |
 | [模型 QA 专家](specialized/specialized-model-qa.md) | ML 模型审计、质量验证 | 模型上线前检查 |
 | [ZK 管家](specialized/zk-steward.md) | Zettelkasten 知识管理 | 知识库构建、笔记系统 |
-| [区块链安全审计师](specialized/blockchain-security-auditor.md) | 智能合约审计、漏洞检测 | 合约安全、DeFi 审计 |
+| [区块链安全审计师](security/security-blockchain-security-auditor.md) | 智能合约审计、漏洞检测 | 合约安全、DeFi 审计 |
 | [留学规划顾问](specialized/study-abroad-advisor.md) ⭐ | 多国申请策略、选校定位 | 留学规划、文书指导 |
 | [政务数字化售前顾问](specialized/government-digital-presales-consultant.md) ⭐ | 方案设计、标书、等保/信创 | 政务ToG项目售前 |
 | [企业培训课程设计师](specialized/corporate-training-designer.md) ⭐ | ADDIE/SAM、企业学习平台、TTT | 培训体系搭建与课程开发 |

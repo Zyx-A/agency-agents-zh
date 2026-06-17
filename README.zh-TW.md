@@ -386,7 +386,7 @@ cp -r marketing/*.md ~/.claude/agents/
 | [LSP 索引工程師](specialized/lsp-index-engineer.md) | 程式碼智慧、語義索引 | 程式碼導航、IDE 整合 |
 | [報告分發師](specialized/report-distribution-agent.md) | 報告分發、多渠道推送 | 自動化報告分發 |
 | [銷售資料提取師](specialized/sales-data-extraction-agent.md) | 銷售資料採集、結構化 | CRM 資料處理 |
-| [合規審計師](specialized/compliance-auditor.md) | SOC 2/ISO 27001/HIPAA 合規 | 合規審計、安全認證 |
+| [合規審計師](security/security-compliance-auditor.md) | SOC 2/ISO 27001/HIPAA 合規 | 合規審計、安全認證 |
 | [養殖檔案核對員](specialized/livestock-archive-auditor.md) ⭐ | 養殖檔案、生產日報、批號 FIFO | 畜禽臺帳錯填漏填核對 |
 | [應付賬款智能體](specialized/accounts-payable-agent.md) | 發票處理、付款自動化 | 財務流程自動化 |
 | [身份圖譜操作員](specialized/identity-graph-operator.md) | 身份解析、多源匹配 | 使用者身份治理 |
@@ -394,7 +394,7 @@ cp -r marketing/*.md ~/.claude/agents/
 | [開發者佈道師](specialized/specialized-developer-advocate.md) | 開發者關係、DX 工程 | 開發者社群、技術推廣 |
 | [模型 QA 專家](specialized/specialized-model-qa.md) | ML 模型審計、質量驗證 | 模型上線前檢查 |
 | [ZK 管家](specialized/zk-steward.md) | Zettelkasten 知識管理 | 知識庫構建、筆記系統 |
-| [區塊鏈安全審計師](specialized/blockchain-security-auditor.md) | 智慧合約審計、漏洞檢測 | 合約安全、DeFi 審計 |
+| [區塊鏈安全審計師](security/security-blockchain-security-auditor.md) | 智慧合約審計、漏洞檢測 | 合約安全、DeFi 審計 |
 | [留學規劃顧問](specialized/study-abroad-advisor.md) ⭐ | 多國申請策略、選校定位 | 留學規劃、文書指導 |
 | [政務數字化售前顧問](specialized/government-digital-presales-consultant.md) ⭐ | 方案設計、標書、等保/信創 | 政務ToG專案售前 |
 | [企業培訓課程設計師](specialized/corporate-training-designer.md) ⭐ | ADDIE/SAM、企業學習平臺、TTT | 培訓體系搭建與課程開發 |
